@@ -12,8 +12,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.0",
-    "@sveltejs/kit": "^2.0.0",
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/kit": "^2.50.2",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
     "sass": "^1.97.3",
     "svelte": "^5.0.0",
